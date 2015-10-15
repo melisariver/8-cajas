@@ -1,0 +1,15 @@
+div{
+	background-color: green;
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+	border: 8px ridge brown;
+}
+ .span{
+display: inline-block;
+}
+.mine{
+background-color: beige;
+	width: intrinsic;
+	height: intrinsic;
+}
